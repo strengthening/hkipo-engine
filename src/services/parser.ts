@@ -88,8 +88,6 @@ async function callAliyunDocParse(
   const submitParams: Record<string, string> = {
     FileUrl: pdfUrl,
     FileName: filenameFromUrl(pdfUrl),
-    LlmEnhancement: "false",
-    OutputHtmlTable: "true",      // tables come back as <table> HTML
   };
 
   const submitResp = await aliyunRpc(env, "SubmitDocParserJob", submitParams);
