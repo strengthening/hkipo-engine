@@ -1,0 +1,273 @@
+{
+  "company": {
+    "name_tc": "MiniMax Group Inc.",
+    "name_en": "MiniMax Group Inc.",
+    "stock_code": "0100",
+    "industry": "人工智能 / AI大模型",
+    "business_summary": "全球化的AI大模型公司，專注於研發先進的大模型及打造AI原生產品，包括大語言模型MiniMax M系列、視頻生成模型Hailuo-02、語音模型Speech-02，以及AI原生產品MiniMax、海螺AI、Talkie/星野、MiniMax語音和開放平台。截至2025年9月30日，AI原生產品累計用戶超過2.12億。",
+    "products": [
+      "MiniMax M系列（大語言模型，含M1/M2）",
+      "Hailuo-02（視頻生成模型）",
+      "Speech-02（語音生成模型）",
+      "MiniMax（智能Agent應用）",
+      "海螺AI（視覺生成平台）",
+      "MiniMax語音（音頻生成工具）",
+      "Talkie/星野（全模態交互平台）",
+      "MiniMax開放平台（企業API服務）"
+    ],
+    "competitive_advantages": [
+      "前瞻創新技術路線打造可擴展模型能力",
+      "可擴展AI基礎架構提升效率和性能",
+      "獲全球廣泛認可的可擴展商業化路徑",
+      "扁平靈活的組織架構實現創新與執行力"
+    ],
+    "growth_strategy": [
+      "通過維持研究與開發領先地位推動AI發展",
+      "打造具備商業化潛力的「技術即產品」",
+      "優化組織架構，拓展人才儲備"
+    ]
+  },
+  "offering": {
+    "type": "全球發售",
+    "board": "主板",
+    "total_shares": 25389220,
+    "hk_shares": 1269480,
+    "international_shares": 24119740,
+    "price_range": {
+      "low": 151.00,
+      "high": 165.00,
+      "currency": "HKD"
+    },
+    "par_value": {
+      "amount": 0.0001,
+      "currency": "USD"
+    },
+    "estimated_net_proceeds": {
+      "amount": 3818.3,
+      "currency": "HKD",
+      "unit": "百萬",
+      "note": "假設發售價為中位數158.00港元"
+    },
+    "market_cap_range": {
+      "low": 46122.54,
+      "high": 50398.80,
+      "currency": "HKD",
+      "unit": "百萬"
+    },
+    "total_shares_post_offering": 305447288,
+    "wvr_structure": true,
+    "wvr_note": "不同投票權架構：B類普通股每股十票，A類普通股每股一票"
+  },
+  "timeline": {
+    "offer_start": "2025-12-31",
+    "offer_end": "2026-01-06",
+    "pricing_date": "2026-01-07",
+    "allotment_result": "2026-01-08",
+    "listing_date": "2026-01-09"
+  },
+  "sponsors_and_underwriters": {
+    "joint_sponsors": ["中金公司（CICC）", "瑞銀集團（UBS）"],
+    "global_coordinators": ["高盛（Goldman Sachs）", "摩根士丹利（Morgan Stanley）"],
+    "bookrunners": ["富途證券", "老虎證券"]
+  },
+  "financials": {
+    "currency": "USD",
+    "unit": "千元",
+    "income_statement": [
+      {
+        "period": "FY2022",
+        "end_date": "2022-12-31",
+        "revenue": null,
+        "cost_of_sales": null,
+        "gross_profit": null,
+        "gross_margin_pct": null,
+        "net_profit": -73728,
+        "adjusted_net_profit": -12150,
+        "adjusted_net_profit_note": "經調整淨虧損（非IFRS）"
+      },
+      {
+        "period": "FY2023",
+        "end_date": "2023-12-31",
+        "revenue": 3460,
+        "cost_of_sales": -4314,
+        "gross_profit": -854,
+        "gross_margin_pct": -24.7,
+        "net_profit": -269246,
+        "adjusted_net_profit": -89074,
+        "adjusted_net_profit_note": "經調整淨虧損（非IFRS）"
+      },
+      {
+        "period": "FY2024",
+        "end_date": "2024-12-31",
+        "revenue": 30523,
+        "cost_of_sales": -26785,
+        "gross_profit": 3738,
+        "gross_margin_pct": 12.2,
+        "net_profit": -465238,
+        "adjusted_net_profit": -244243,
+        "adjusted_net_profit_note": "經調整淨虧損（非IFRS）"
+      },
+      {
+        "period": "9M2024",
+        "end_date": "2024-09-30",
+        "revenue": 19454,
+        "cost_of_sales": -18944,
+        "gross_profit": 510,
+        "gross_margin_pct": 2.6,
+        "net_profit": -304342,
+        "adjusted_net_profit": -170179,
+        "adjusted_net_profit_note": "經調整淨虧損（非IFRS），未經審計"
+      },
+      {
+        "period": "9M2025",
+        "end_date": "2025-09-30",
+        "revenue": 53437,
+        "cost_of_sales": -40961,
+        "gross_profit": 12476,
+        "gross_margin_pct": 23.3,
+        "net_profit": -512013,
+        "adjusted_net_profit": -186280,
+        "adjusted_net_profit_note": "經調整淨虧損（非IFRS），未經審計"
+      }
+    ],
+    "balance_sheet": {
+      "as_of": "2025-09-30",
+      "non_current_assets": 81320,
+      "current_assets": 1051772,
+      "total_assets": 1133092,
+      "current_liabilities": 2434187,
+      "non_current_liabilities": 2404,
+      "total_liabilities": 2436591,
+      "net_assets": -1303499,
+      "note": "負債淨額主要由於可轉換可贖回優先股2,321.2百萬美元（上市後將自動轉換為普通股）"
+    },
+    "cash_flow": [
+      { "period": "FY2022", "operating": -11019, "investing": -35156, "financing": 49786 },
+      { "period": "FY2023", "operating": -64455, "investing": -40320, "financing": 306243 },
+      { "period": "FY2024", "operating": -258483, "investing": -431300, "financing": 771092 },
+      { "period": "9M2024", "operating": -195596, "investing": -630463, "financing": 718827 },
+      { "period": "9M2025", "operating": -209396, "investing": -126231, "financing": 407913 }
+    ],
+    "key_ratios": {
+      "as_of_latest": "2025-09-30",
+      "revenue_growth_9m2025_pct": 174.7,
+      "gross_margin_pct": 23.3,
+      "net_loss_ratio_pct": -958.2,
+      "adjusted_net_loss_ratio_pct": -348.6,
+      "current_ratio": 0.43,
+      "monthly_cash_burn": 28100,
+      "monthly_cash_burn_unit": "千美元",
+      "cash_runway_months": 37,
+      "cash_runway_note": "不計入IPO所得款項"
+    }
+  },
+  "use_of_proceeds": [
+    {
+      "purpose": "未來五年的研發，包括大模型的研發及AI原生產品（其中約70%用於大模型研發，約20%用於AI原生產品開發、改進及全球規模化）",
+      "percentage": 90.0,
+      "amount_hkd_million": 3436.4
+    },
+    {
+      "purpose": "營運資金及一般企業用途",
+      "percentage": 10.0,
+      "amount_hkd_million": 381.8
+    }
+  ],
+  "cornerstone_investors": [
+    { "name": "ADIA（阿布扎比投資局）", "amount": 65000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Alisoft China（阿里巴巴集團）", "amount": 30000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Aspex Master Fund", "amount": 35000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Boyu（博裕資本）", "amount": 35000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "匯添富香港", "amount": 15000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Eastspring（瀚亞投資，Prudential plc旗下）", "amount": 15000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "易方達基金管理", "amount": 10000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "IDG Breyer Fund", "amount": 15000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Janchor Funds", "amount": 35000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Martis Fund, L.P.", "amount": 15000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Mirae Asset Securities（韓國未來資產證券）", "amount": 20000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "MPC VII", "amount": 15000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "Perseverance Asset Management", "amount": 25000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" },
+    { "name": "泰康人壽", "amount": 20000, "currency": "USD", "unit": "千", "lock_up_period": "6個月" }
+  ],
+  "cornerstone_total": {
+    "total_amount": 350000,
+    "currency": "USD",
+    "unit": "千",
+    "total_amount_hkd": 2723000,
+    "total_amount_hkd_unit": "百萬港元",
+    "pct_of_offering_at_low": 71.03,
+    "pct_of_offering_at_mid": 67.88,
+    "pct_of_offering_at_high": 65.00
+  },
+  "shareholders": {
+    "controlling_shareholder": {
+      "name": "閆博士（閆俊傑）通過 Local Linearity、MiniMax Awakening、MiniMax Limited、Alpha EXP、Scaling EXP Limited 及 MiniMax Matrix 控制",
+      "pre_offering_pct": 91.37,
+      "post_offering_pct": 24.26,
+      "voting_pct": 72.05,
+      "note": "B類普通股每股十票，不同投票權受益人"
+    },
+    "major_shareholders": [
+      { "name": "閆博士（閆俊傑）", "post_offering_pct": 24.26, "voting_pct": 72.05, "note": "B類普通股74,102,534股 + A類普通股3,355,030股" },
+      { "name": "負女士", "post_offering_pct": 2.29, "voting_pct": 6.76, "note": "B類普通股7,000,000股 + A類普通股1,644,970股" },
+      { "name": "阿里巴巴集團", "post_offering_pct": 12.52, "note": "A類普通股38,247,987股，通過Alisoft Investment Holding Limited持有" },
+      { "name": "米哈游有限公司", "post_offering_pct": 5.24, "note": "A類普通股16,015,779股" },
+      { "name": "XAM Holdings Limited（MNM Holdings）", "post_offering_pct": 4.65, "note": "Colm O'Connell先生控制，14,201,184股" }
+    ]
+  },
+  "risk_factors_summary": [
+    "已於往績記錄期間錄得淨虧損、淨負債及經營性現金流出，並於2025年9月30日錄得淨流動負債，可能無法實現或維持盈利能力",
+    "在快速發展且競爭日趨激烈的全球大模型行業中經營，面臨持續的技術進步及行業變革",
+    "用於訓練大模型的內容或數據及大模型生成的內容可能面臨第三方知識產權侵權索賠",
+    "大模型技術的任何實際或預期缺陷、不當使用可能對聲譽、業務產生重大不利影響",
+    "大模型及產品的競爭力取決於研發方面的持續及重大投資，可能在短期內對盈利能力及經營現金流量產生負面影響",
+    "面臨美國出口管理條例(EAR)及對外投資規則等監管風險",
+    "面臨迪士尼、環球影業等美國電影製片公司就海螺AI提起的版權侵權訴訟"
+  ],
+  "customer_concentration": {
+    "top5_revenue_pct": [
+      { "period": "FY2023", "pct": 60.5 },
+      { "period": "FY2024", "pct": 44.1 },
+      { "period": "9M2025", "pct": 21.7 }
+    ],
+    "top1_revenue_pct": [
+      { "period": "FY2023", "pct": 37.2 },
+      { "period": "FY2024", "pct": 30.9 },
+      { "period": "9M2025", "pct": 14.7 }
+    ]
+  },
+  "financial_risks": {
+    "market_risk": "外幣風險：來自運營單位以單位功能貨幣以外的貨幣進行的出售及購買。集團力求通過最大限度地減少外幣淨頭寸來限制其面臨的外幣風險。人民幣兌美元匯率變動±5%，對2025年9月30日止九個月的稅前虧損影響約±3,241千美元。",
+    "credit_risk": "信貸風險：僅與獲認可及信譽良好的第三方進行交易，所有客戶均須辦理信用核實程序。持續監控應收款項結餘，壞賬風險不大。截至2025年9月30日，金融資產總額406,017千美元（按攤銷成本計量），其中貿易應收款項8,063千美元全部使用簡化法計量。",
+    "liquidity_risk": "流動資金風險：通過監控流動比率（流動資產/流動負債）監控流動資金風險。截至2025年9月30日，金融負債到期分析：1年內1,796,323千美元（主要為可轉換可贖回優先股1,698,247千美元），1至5年1,039千美元，合計1,797,362千美元。流動比率為0.43。",
+    "contingent_liabilities": "截至2025年9月30日，集團若干附屬公司為若干法律糾紛案件的被告，涉及侵犯知識產權的索賠（含迪士尼等美國電影製片公司版權訴訟）。董事在充分考慮法律意見後認為，截至2025年9月30日未就這些案件計提任何撥備。",
+    "capital_management": "資本管理的主要目標是保障持續經營能力，以便可通過按風險水平對服務進行相應定價，繼續向股東提供回報。集團根據經濟環境變化及相關資產的風險特徵管理及調整資本架構，可調整派息、資本回報或新股發行。無須遵循任何外部施加的資本要求。"
+  },
+  "market_overview": {
+    "global_foundation_model_market_2024": "107億美元",
+    "global_foundation_model_market_2029_forecast": "2065億美元",
+    "cagr_2024_2029": "80.7%",
+    "minimax_market_position": "全球第十大大模型技術公司（按市場份額0.3%），全球第四大pureplay大模型技術公司（按2024年基於模型的收入計算）"
+  },
+  "key_operating_metrics": {
+    "total_users_2025_sep": "2.12億",
+    "mau_2025_sep": "2760萬",
+    "paying_users_2025_sep": "177.16萬",
+    "enterprise_paying_clients_2025_sep": "約2500家",
+    "monthly_cash_burn_2025": "28.1百萬美元"
+  },
+  "listing_expenses": {
+    "total_estimated": 193.2,
+    "currency": "HKD",
+    "unit": "百萬",
+    "pct_of_proceeds": 4.8,
+    "underwriting_fees": 133.0,
+    "non_underwriting_fees": 60.2
+  },
+  "legal_proceedings": {
+    "us_copyright_lawsuit": "2025年9月16日，迪士尼、環球影業及華納兄弟探索頻道等美國電影製片公司就海螺AI視覺生成平台提起版權侵權民事訴訟。董事認為該等索賠不會產生重大不利影響。最高潛在法定賠償約75百萬美元，僅佔可用財務資源約4.9%。"
+  },
+  "dividend_policy": "自成立以來並未支付或宣派任何股息，目前無正式的股息政策或確定固定股息宣派比率",
+  "source_pdf": "docs/ipo_tc_doc/2025123100026_c.pdf",
+  "extracted_at": "2026-03-28"
+}

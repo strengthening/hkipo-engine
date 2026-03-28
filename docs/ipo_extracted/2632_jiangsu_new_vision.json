@@ -1,0 +1,280 @@
+{
+  "company": {
+    "name_tc": "江蘇澤景汽車電子股份有限公司",
+    "name_en": "JIANGSU NEW VISION AUTOMOTIVE ELECTRONICS CO., LTD.",
+    "stock_code": "2632",
+    "industry": "汽車電子 / 車載HUD解決方案",
+    "business_summary": "專注於車載HUD（抬頭顯示）解決方案的研發、生產和銷售，主要產品包括擋風玻璃HUD(W-HUD) CyberLens及增強現實HUD(AR-HUD) CyberVision，服務於18家中國主要汽車主機廠，累計銷量1.9百萬套。",
+    "products": [
+      "CyberLens（W-HUD擋風玻璃抬頭顯示）",
+      "CyberVision（AR-HUD增強現實抬頭顯示）",
+      "測試解決方案",
+      "其他創新業務解決方案（電子後視鏡、透明車窗顯示、RISD等）"
+    ],
+    "competitive_advantages": [
+      "HUD解決方案的先行者，具有顯著的先發優勢",
+      "一體化全流程自研技術架構，打造差異化競爭優勢",
+      "全面靈活且性能突出的解決方案，滿足客戶多樣化需求",
+      "健全的生產及質量控制體系",
+      "多元化且高黏性的客戶群體，支撐業績長期增長",
+      "兼具豐富經驗及全球化視野的管理團隊及強大的股東陣容"
+    ],
+    "growth_strategy": [
+      "推動HUD解決方案滲透",
+      "推動技術創新和迭代",
+      "推進全球化發展戰略",
+      "深化上下游產業生態合作，促進創新",
+      "深化全球人才庫"
+    ]
+  },
+  "offering": {
+    "type": "全球發售",
+    "board": "主板",
+    "total_shares": 16226500,
+    "hk_shares": 1622650,
+    "international_shares": 14603850,
+    "price_range": {
+      "low": 42.00,
+      "high": 48.00,
+      "currency": "HKD"
+    },
+    "par_value": {
+      "amount": 0.50,
+      "currency": "RMB"
+    },
+    "estimated_net_proceeds": {
+      "amount": 662.1,
+      "currency": "HKD",
+      "unit": "百萬",
+      "note": "假設發售價為中位數45.00港元"
+    },
+    "market_cap_range": {
+      "low": 5182.60,
+      "high": 5922.97,
+      "currency": "HKD",
+      "unit": "百萬"
+    },
+    "total_shares_post_offering": 123395266
+  },
+  "timeline": {
+    "offer_start": "2026-03-16",
+    "offer_end": "2026-03-19",
+    "pricing_date": "2026-03-20",
+    "allotment_result": "2026-03-23",
+    "listing_date": "2026-03-24"
+  },
+  "sponsors_and_underwriters": {
+    "joint_sponsors": ["國泰海通", "海通國際", "中信証券"],
+    "global_coordinators": ["中銀國際"],
+    "bookrunners": ["富途證券", "百惠金控"]
+  },
+  "financials": {
+    "currency": "RMB",
+    "unit": "千元",
+    "income_statement": [
+      {
+        "period": "FY2022",
+        "end_date": "2022-12-31",
+        "revenue": 214092,
+        "cost_of_sales": -165709,
+        "gross_profit": 48383,
+        "gross_margin_pct": 22.6,
+        "net_profit": -256144,
+        "adjusted_net_profit": -79132,
+        "adjusted_net_profit_note": "非國際財務報告準則計量"
+      },
+      {
+        "period": "FY2023",
+        "end_date": "2023-12-31",
+        "revenue": 549362,
+        "cost_of_sales": -408932,
+        "gross_profit": 140430,
+        "gross_margin_pct": 25.6,
+        "net_profit": -174618,
+        "adjusted_net_profit": 13313,
+        "adjusted_net_profit_note": "非國際財務報告準則計量"
+      },
+      {
+        "period": "FY2024",
+        "end_date": "2024-12-31",
+        "revenue": 577620,
+        "cost_of_sales": -419749,
+        "gross_profit": 157871,
+        "gross_margin_pct": 27.3,
+        "net_profit": -137851,
+        "adjusted_net_profit": -7131,
+        "adjusted_net_profit_note": "非國際財務報告準則計量"
+      },
+      {
+        "period": "9M2024",
+        "end_date": "2024-09-30",
+        "revenue": 429716,
+        "cost_of_sales": -312441,
+        "gross_profit": 117275,
+        "gross_margin_pct": 27.3,
+        "net_profit": -127804,
+        "adjusted_net_profit": -4387,
+        "adjusted_net_profit_note": "非國際財務報告準則計量，未經審計"
+      },
+      {
+        "period": "9M2025",
+        "end_date": "2025-09-30",
+        "revenue": 479921,
+        "cost_of_sales": -365027,
+        "gross_profit": 114894,
+        "gross_margin_pct": 23.9,
+        "net_profit": -343685,
+        "adjusted_net_profit": -17452,
+        "adjusted_net_profit_note": "非國際財務報告準則計量，未經審計"
+      }
+    ],
+    "balance_sheet": {
+      "as_of": "2025-09-30",
+      "non_current_assets": 169887,
+      "current_assets": 593635,
+      "total_assets": 763522,
+      "current_liabilities": 1976474,
+      "non_current_liabilities": 23038,
+      "total_liabilities": 1999512,
+      "net_assets": -1235990,
+      "note": "負債淨額主要由於首次公開發售前融資期間發行的優先股的贖回負債"
+    },
+    "cash_flow": [
+      { "period": "FY2022", "operating": -139891, "investing": 789, "financing": 93472 },
+      { "period": "FY2023", "operating": -124499, "investing": -1579, "financing": 159974 },
+      { "period": "FY2024", "operating": 29189, "investing": -55962, "financing": 193234 },
+      { "period": "9M2024", "operating": 14536, "investing": -52061, "financing": 45719 },
+      { "period": "9M2025", "operating": -48969, "investing": -74325, "financing": -2328 }
+    ],
+    "key_ratios": {
+      "as_of_latest": "2025-09-30",
+      "asset_liability_ratio_pct": 261.9,
+      "gross_margin_pct": 23.9,
+      "current_ratio_pct": 30.0,
+      "quick_ratio_pct": 24.1,
+      "net_loss_ratio_pct": -71.6,
+      "adjusted_net_margin_pct": -3.6
+    }
+  },
+  "use_of_proceeds": [
+    {
+      "purpose": "生產線擴展及自動化、智能化升級",
+      "percentage": 46.7,
+      "amount_hkd_million": 309.1
+    },
+    {
+      "purpose": "提升研發及技術能力，升級現有解決方案及開發基於同源技術的新產品",
+      "percentage": 32.4,
+      "amount_hkd_million": 214.7
+    },
+    {
+      "purpose": "與光學成像、近眼顯示、可穿戴產品等相關領域的產業價值鏈參與者的潛在戰略合作",
+      "percentage": 10.9,
+      "amount_hkd_million": 72.1
+    },
+    {
+      "purpose": "營運資金及一般公司用途",
+      "percentage": 10.0,
+      "amount_hkd_million": 66.2
+    }
+  ],
+  "cornerstone_investors": [
+    {
+      "name": "盈科壹號（香港）有限公司",
+      "background": "由盈科投資基金全資擁有，最終由北京市順義區人民政府國有資產監督管理委員會控制",
+      "amount": 55.00,
+      "currency": "USD",
+      "unit": "百萬",
+      "shares_at_low_price": 1309500,
+      "shares_at_mid_price": 1222200,
+      "shares_at_high_price": 1145800,
+      "lock_up_period": "6個月"
+    },
+    {
+      "name": "香港高精尖產業（北京）發展投資有限公司",
+      "background": "由北京高精尖產業發展投資基金全資擁有，最終由北京市人民政府及北京市國有資產監督管理委員會控制",
+      "amount": 54.95,
+      "currency": "USD",
+      "unit": "百萬",
+      "shares_at_low_price": 1308300,
+      "shares_at_mid_price": 1221100,
+      "shares_at_high_price": 1144750,
+      "lock_up_period": "6個月"
+    }
+  ],
+  "cornerstone_total": {
+    "total_amount": 109.95,
+    "currency": "USD",
+    "unit": "百萬",
+    "pct_of_offering_at_low": 16.13,
+    "pct_of_offering_at_mid": 15.06,
+    "pct_of_offering_at_high": 14.12
+  },
+  "shareholders": {
+    "controlling_shareholder": {
+      "name": "控股股東集團（張濤先生、張波先生、王正剛先生、呂濤先生、葉靜女士、郭慧女士、呂湘連女士、揚州澤盈及揚州澤無）",
+      "pre_offering_pct": 44.66,
+      "post_offering_pct": 38.79,
+      "note": "根據一致行動安排"
+    },
+    "major_shareholders": [
+      { "name": "張波先生", "pre_offering_shares": 8898908, "post_offering_h_shares_pct": 4.36 },
+      { "name": "張濤先生", "pre_offering_shares": 6356908, "post_offering_h_shares_pct": 3.11 },
+      { "name": "葉靜女士", "pre_offering_shares": 4146298, "post_offering_h_shares_pct": 2.03 },
+      { "name": "郭慧女士", "pre_offering_shares": 4146298, "post_offering_h_shares_pct": 2.03 },
+      { "name": "金色成長叁", "pre_offering_shares": 7583672, "post_offering_h_shares_pct": 5.31, "note": "Shunwei Capital（順為資本）關聯" },
+      { "name": "前瞻遠至", "pre_offering_shares": 7541160, "post_offering_h_shares_pct": 5.28, "note": "馮擎峰先生控制" }
+    ]
+  },
+  "risk_factors_summary": [
+    "行業競爭激烈，可能無法持續保持行業領先地位",
+    "過往業績不代表未來表現，難以評估業務前景及財務表現",
+    "往績記錄期間錄得淨虧損及經營活動淨現金流出，未來可能無法實現盈利或維持經營活動淨現金流入",
+    "往績記錄期間錄得負債淨額及流動負債淨額",
+    "客戶集中風險",
+    "行業技術變革及發展迅速，可能降低解決方案的競爭力或使其過時",
+    "無法成功有效地實施業務計劃及戰略",
+    "研發能力至關重要，技術和研發工作的失敗可能影響競爭力及盈利能力",
+    "處於新興行業，人車交互使用的新興技術可能尚不成熟",
+    "生產設施的擴張可能會出現延遲、中斷、成本超支或無法產生預期收益"
+  ],
+  "customer_concentration": {
+    "top5_revenue_pct": [
+      { "period": "FY2022", "pct": 93.0 },
+      { "period": "FY2023", "pct": 93.8 },
+      { "period": "FY2024", "pct": 80.9 },
+      { "period": "9M2025", "pct": 83.1 }
+    ],
+    "top1_revenue_pct": [
+      { "period": "FY2022", "pct": 47.6 },
+      { "period": "FY2023", "pct": 26.1 },
+      { "period": "FY2024", "pct": 23.2 },
+      { "period": "9M2025", "pct": 18.3 }
+    ]
+  },
+  "financial_risks": {
+    "market_risk": "外幣風險：主要業務位於中國內地，大部分交易以人民幣計價，資產及負債均以人民幣計。於有關期間內，集團並無面臨重大外幣風險。",
+    "credit_risk": "信貸風險：集團僅與獲認可及信譽良好的第三方進行交易，所有客戶必須經過信用驗證程序。持續監控應收款結餘，壞賬風險並不重大。不提供信貸條款。貿易應收款項及應收票據採用簡化法計提預期信用損失。",
+    "liquidity_risk": "流動資金風險：管理層維持充足的現金及現金等價物水平，利用銀行透支、銀行貸款、租賃負債及其他計息貸款維持資金延續性與靈活性。截至2025年9月30日，按合約未貼現付款劃分的金融負債到期情況：少於1年人民幣1,942,593千元，1至2年4,910千元，2至3年3,412千元，3至5年6,888千元，5年以上9,343千元，合計1,967,146千元。",
+    "contingent_liabilities": "已訂約但未撥備的資本承擔：截至2025年9月30日為人民幣16,864千元（物業、廠房及設備）。保證撥備餘額：集團人民幣1,280千元，公司人民幣1,121千元（產品保修期36至60個月或100,000至150,000公里）。報告期間後無重大事件。",
+    "capital_management": "資本管理的主要目標為保障持續經營能力及維持穩健的資本比率。集團根據經濟狀況變化及相關資產的風險特徵管理及調整資本架構，可調整對股東的派息、對股東的資本回報或發行新股。無須遵循任何外部施加的資本要求。"
+  },
+  "market_overview": {
+    "china_hud_market_size_2024": "3.9百萬台",
+    "china_hud_market_size_2029_forecast": "12.7百萬台",
+    "cagr_2020_2024": "41.2%",
+    "cagr_2025_2029_forecast": "27.9%",
+    "penetration_rate_2024": "13.9%"
+  },
+  "listing_expenses": {
+    "total_estimated": 68.1,
+    "currency": "HKD",
+    "unit": "百萬",
+    "pct_of_proceeds": 9.3,
+    "underwriting_fees": 29.3,
+    "non_underwriting_fees": 38.8
+  },
+  "dividend_policy": "往績記錄期間無派付或宣派股息，目前無正式股息政策或固定的股息分配比例",
+  "source_pdf": "docs/ipo_tc_doc/2026031600012_c.pdf",
+  "extracted_at": "2026-03-28"
+}
