@@ -33,4 +33,5 @@ export interface Filing {
 export interface Env {
   DB: D1Database;
   ADMIN_API_KEY: string;
+  WEB_TOKEN_SECRET?: string;
 }
